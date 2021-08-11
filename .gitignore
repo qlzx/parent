@@ -1,0 +1,15 @@
+# Project exclude paths
+/target/
+/zookeeper-assembly/target/
+/zookeeper-client/target/
+/zookeeper-compatibility-tests/target/
+/zookeeper-compatibility-tests/zookeeper-compatibility-tests-curator/target/
+/zookeeper-docs/target/
+/zookeeper-jute/target/
+/zookeeper-metrics-providers/target/
+/zookeeper-metrics-providers/zookeeper-prometheus-metrics/target/
+/zookeeper-recipes/target/
+/zookeeper-recipes/zookeeper-recipes-election/target/
+/zookeeper-recipes/zookeeper-recipes-lock/target/
+/zookeeper-recipes/zookeeper-recipes-queue/target/
+/zookeeper-server/target/
